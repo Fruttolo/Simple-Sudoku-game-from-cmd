@@ -2,7 +2,7 @@
 Hi, this is one of my first program write in c++.
 
 The file Easy.map contains the sudoku level, you can edit it and put your personal sudoku.
-Every line is a sudoku, 0 for blank space and 1-  to 9 to insert a number.
+Every line is a sudoku, 0 for blank space and 1 to 9 to insert a number.
 The grid is filled vertically starting at the top left.
 
 EXAMPLE : 
